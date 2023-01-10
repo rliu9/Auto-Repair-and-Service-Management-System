@@ -1,0 +1,13 @@
+Format: Schedule;Service;Type;Tier;Time;ID
+A;Oil Changes;m;6;3;113
+A;Filter Replacements;m;6;3;113
+B;Oil Changes;m;7;6;114
+B;Filter Replacements;m;7;6;114
+B;Brake Repair;m r;7;6;114
+B;Check Engine Light Diagnostics;m;7;6;114
+C;Oil Changes;m;8;9;115
+C;Filter Replacements;m;8;9;115
+C;Brake Repair;m r;8;9;115
+C;Check Engine Light Diagnostics;m;8;9;115
+C;Suspension Repair;m;8;9;115
+C;Evaporator Repair;m r;8;9;115

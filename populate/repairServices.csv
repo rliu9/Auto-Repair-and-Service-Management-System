@@ -1,0 +1,13 @@
+##No extra Info
+Engine;Belt Replacement;101;2;1
+Engine;Engine Repair;102;3;5
+Exhaust;Exhaust Repair;103;4;4
+Exhaust;Muffler Repair;104;2;2
+Electrical;Alternator Repair;105;3;4
+Electrical;Power Lock Repair;106;3;5
+Transmission;Axle Repair;107;5;7
+Transmission;Brake Repair;108;3;3
+Tire;Tire Balancing;109;1;2
+Tire;Wheel Alignment;110;2;1
+Heating and AC;Compressor Repair;111;4;3
+Heating and AC;Evaporator Repair;112;3;4
